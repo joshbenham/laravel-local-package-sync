@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/joshbenham/laravel-local-package-sync/master/docs/example.png" height="300" alt="Skeleton Php">
     <p align="center">
         <a href="https://github.com/joshbenham/laravel-local-package-sync/actions"><img alt="GitHub Workflow Status (master)" src="https://github.com/joshbenham/laravel-local-package-sync/actions/workflows/tests.yml/badge.svg"></a>
         <a href="https://packagist.org/packages/joshbenham/laravel-local-package-sync"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/joshbenham/laravel-local-package-sync"></a>
